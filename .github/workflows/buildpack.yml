@@ -14,4 +14,4 @@ jobs:
       env:
         IMAGE_NAME: crswty/samply-builder:latest
         VARS: HELLO=WORLD
-        CONTEXT: samples/apps/java-maven/
+        CONTEXT: apps/java-maven/
